@@ -449,43 +449,4 @@ h2, p {
   cursor: pointer;
   color: #fff;
 }
-/* End contact  */
-
-
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.power {
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-}
-
-.power {
-  text-align: center;
-  padding: 20px;
-  background-color: white;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
- .power h1 {
-  font-size: 3rem;
-  color: #333;
-  margin-bottom: 1000px;
-  text-align: center;
-}
-
-.power p {
-  font-size: 1.5rem;
-  color: #555;
-  line-height: 1.6;
-  width: 100%;
-  max-width: 1200px;
-}
+ /* End contact */
